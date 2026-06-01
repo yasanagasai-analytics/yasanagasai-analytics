@@ -8,7 +8,7 @@ Iam buiding my career in Data Analytics and Business Intelligence with a strong 
 - Power BI
 - Data visualization
 - Business Analytics
-I enjoy transforming raw data into meaningful insights and building dashboards that support data-driven decision-making.
+ I enjoy transforming raw data into meaningful insights and building dashboards that support data-driven decision-making.
 
 ## Technical Skills
 ### Data Analysis
